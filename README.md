@@ -1,1 +1,1 @@
-# personal_project
+# LED matrix app
